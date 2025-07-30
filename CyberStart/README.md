@@ -6,4 +6,6 @@ In this folder you will find a collection of estranged writeups from my junior y
 
 As such, the writeups contained in this folder are very... *lackluster,* and some may even be incomplete.<br />
 
-I thought that I should include these somewhere, as it serves as a reminder of where I started, and shows me just how much I've learned since!
+Originally, these were created in a private notion page, and have all been converted over to this repo, with "Writeup begins here:" after each challenge's prompt.
+
+I thought that it was important to include these somewhere, as it serves as a reminder of where I started, and shows me just how much I've learned since!
