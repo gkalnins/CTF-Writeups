@@ -2,9 +2,9 @@
 <br /><br />
 In this folder you will find a collection of estranged writeups from my junior year of highschool, in which I participated in CyberStart America's final year of operation. <br />
 
-<br />This was my *first* time not only completing CTFs, but also using VMs & Linux **at all!**<br />
+<br />This was not only my *first* time completing CTFs, but also using VMs & Linux **at all!**<br />
 
-As such, the writeups contained in this folder are very... *lackluster,* and some may even be incomplete.<br />
+As such, the writeups contained in this folder are very... *lackluster,* and some may even be incomplete (oops).<br />
 
 Originally, these were created in a private notion page, and have all been converted over to this repo, with "Writeup begins here:" after each challenge's prompt.
 
