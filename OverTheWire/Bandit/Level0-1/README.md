@@ -78,7 +78,7 @@ let's try a command that can display the contents of a file
 
 <!-- writeup screenshot #2 -->
 <div align="center">
-<img src="level0_2png.png" width="500">
+<img src="level0_2.png" width="500">
 
 <br><br>
 
